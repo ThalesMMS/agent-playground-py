@@ -21,8 +21,8 @@ This project is a modular CLI-based agent designed to interact with local Large 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/ThalesMMS/agent-playground-py.git
+    cd agent-playground-py
     ```
 
 2.  **Set up a virtual environment (recommended):**
